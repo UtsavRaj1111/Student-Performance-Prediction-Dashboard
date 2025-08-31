@@ -1,7 +1,14 @@
 # 🎓 Student Performance Prediction Dashboard
 
-An interactive **Streamlit dashboard** that predicts student performance using a trained machine learning model.  
-The project combines **data science (JupyterLab)** for data preparation & model training and **Streamlit (VS Code)** for building a user-friendly dashboard.
+
+This project is an **interactive machine learning dashboard** built with **Streamlit** that predicts student performance based on academic and lifestyle factors.  
+It allows users to input study hours, previous scores, extracurricular activities, sleep hours, and practice papers practiced — then generates a **predicted performance index** using a trained model.
+
+The project workflow is split into two parts:
+- **Data Cleaning & Model Training** → performed in **JupyterLab**  
+- **Dashboard Development & Deployment** → implemented in **VS Code with Streamlit**  
+
+This combination provides both **data science insights** and an **easy-to-use interface** for prediction and visualization.
 
 ---
 
