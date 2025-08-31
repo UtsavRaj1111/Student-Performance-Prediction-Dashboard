@@ -16,10 +16,7 @@ The project combines **data science (JupyterLab)** for data preparation & model 
 
 ---
 
-## 📂 Project Structure
-├── app.py # Streamlit dashboard (main app)
-├── St_Performance.csv # Dataset
-├── student_performance_model.joblib # Trained ML model
+
 
 ## 🛠️ Tech Stack
 - **Python**  
@@ -92,6 +89,10 @@ VS Code → Streamlit app development & deployment
   
 
 ---
+## 📂 Project Structure
+├── app.py # Streamlit dashboard (main app)
+├── St_Performance.csv # Dataset
+├── student_performance_model.joblib # Trained ML model
 
 
 
